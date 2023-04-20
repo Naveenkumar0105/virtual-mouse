@@ -4,7 +4,7 @@ import numpy as np
 import autopy
 import HandTrackingModule as htm
 import time
-import pyautogui
+import pyautogui #this is used as a substitute for autopy
 
 # set the camera resolution to 640x480
 wCam, hCam = 640, 380
